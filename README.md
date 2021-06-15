@@ -1,4 +1,4 @@
-# Submission-BFAA
+# Submission-BFAA (Github User)
 
 ## Submission 1 BFAA
 ## Submission 2 BFAA

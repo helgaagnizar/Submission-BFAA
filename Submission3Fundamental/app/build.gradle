@@ -15,7 +15,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.submission1fundamental"
+        applicationId "com.example.submission3fundamental"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

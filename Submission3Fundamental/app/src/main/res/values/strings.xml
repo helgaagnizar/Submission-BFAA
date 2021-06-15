@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search_user">Search User</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <string name="text_name">Name</string>
+    <string name="text_location">Location</string>
+    <string name="text_repository">Repository</string>
+    <string name="text_company">Company</string>
+    <string name="setting">Setting Alarm</string>
+    <string name="favorite">Favorite</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="alarm">Alarm sudah di set untuk jam 09:00 am</string>
+    <string name="cancel_alarm">Alarm sudah di cancel</string>
+    <string name="add_fav">User telah ditambahkan ke favorite</string>
+    <string name="empty_fav">Tidak ada favorite</string>
+    <string name="reminder_turned_off">Daily reminder has turned off</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
